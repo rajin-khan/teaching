@@ -1,0 +1,1 @@
+/* Write a C program to calculate the sum of all odd numbers from 1 to 'n' where 'n' is entered by the user. */

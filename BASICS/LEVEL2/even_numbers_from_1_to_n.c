@@ -1,0 +1,1 @@
+/* Write a C program to print all even numbers from 1 to 'n' where 'n' is entered by the user. */
