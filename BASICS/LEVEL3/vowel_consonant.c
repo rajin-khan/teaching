@@ -1,1 +1,0 @@
-/* Write a C program that prompts the user to enter a character and checks whether it is a vowel or consonant. */
