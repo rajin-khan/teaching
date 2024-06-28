@@ -1,0 +1,10 @@
+FURTHER PROBLEMS ON RECURSION
+
+1. Write a recursive function to calculate the factorial of a non-negative integer.
+2. Implement a recursive function to compute the nth Fibonacci number.
+3. Write a recursive function to find the sum of digits of a positive integer.
+4. Create a recursive function to calculate the exponentiation of a number.
+5. Implement a recursive function to reverse a string.
+6. Write a recursive function to find the greatest common divisor (GCD) of two integers.
+7. Create a recursive function to check if a given string is a palindrome.
+8. Write a recursive function to compute the sum of elements in an array.
