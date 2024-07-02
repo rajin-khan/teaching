@@ -1,1 +1,0 @@
-/* Write a C program to check whether a year entered by the user is a leap year or not. */

@@ -1,1 +1,0 @@
-/* Write a C program to calculate the area of a triangle given its base and height. */

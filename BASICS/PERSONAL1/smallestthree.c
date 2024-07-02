@@ -1,1 +1,0 @@
-//This program will read three numbers from the user and print the smallest one from them.

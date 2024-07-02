@@ -1,1 +1,0 @@
-//This program will read three numbers from user and print the largest of them.
